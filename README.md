@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* I am BlackBoxing, in ShenZhen, China. I master multiple programming skills and am a Android Developer mainly in this account.
+* I am BlackBoxing, in Shanghai, China. I master multiple programming skills and am a Android Developer mainly in this account.
 * I maintain the project in my spare time, if you appreciate my work, you can sponsor me.
 ## 
 ## Sponsor me
